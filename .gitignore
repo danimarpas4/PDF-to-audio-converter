@@ -1,6 +1,10 @@
 venv/
+.venv/
 __pycache__/
+*.pyc
+material_por_temas/
+audios_generados/
+textos_extraidos/
+extraer_texto.py
 *.mp3
 *.pdf
-audios_generados/
-audios_por_temas/
